@@ -1,7 +1,6 @@
 
 ## ----loaddata------------------------------------------------------------
-unzip(zipfile="activity.zip")
-data <- read.csv("activity.csv")
+data <- read.csv("C:/Users/ewilli11/Documents/datascience/activity.csv")
 
 
 ## ------------------------------------------------------------------------
